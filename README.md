@@ -1,6 +1,6 @@
 # Time-Series
 
-Here there are some codes written by me during the course of Time Series
+Here there are some codes written by me during the course of Time Series.
 
 Covered topics: linear time series analysis (linear processes, Wold representation, autocovariance and spectral density function, inference on the moments of a linear process) and basic stochastic processes (conditioning, martingales, martingale difference sequences).
 
